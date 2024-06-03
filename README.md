@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rohit Panwar</h1>
 <h3 align="center">A passionate game developer from India</h3>
 
-- 🌱 I’m currently learning **c# and 3D animation**
+- 🌱 I’m currently working on **3D game design and development**
 
 - 👨‍💻 All of my projects are available at [www.linkedin.com/in/rohit-panwar-228a77222](www.linkedin.com/in/rohit-panwar-228a77222)
 
