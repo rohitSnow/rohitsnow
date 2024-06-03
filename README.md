@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently working on **3D game design and development**
 
-- 👨‍💻 All of my projects are available at [www.linkedin.com/in/rohit-panwar-228a77222](www.linkedin.com/in/rohit-panwar-228a77222)
+- 👨‍💻 All of my projects are available at https://www.linkedin.com/in/rohit-panwar-228a77222/
 
 - 💬 Ask me about **java, networking and programing concepts**
 
