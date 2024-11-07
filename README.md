@@ -4,9 +4,8 @@
 - 🌱 I’m currently working on **3D game design and development**
 
 - Here are some of my Projects:
-- 
+  
 - Object Ninja  [Link](https://play.unity.com/en/games/9eac8d61-3ad3-4b7f-a1da-d714b0e3d435/ninja-objects)
-- Edge Dodger   [Link](https://play.unity.com/en/games/cb916003-2ad8-4d35-9592-3fa3bef59d41/edge-dodger)
 
 
 
